@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bdb",
+    "ebf"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:ender_eye"
+    },
+    "b": {
+      "item": "minecraft:gold_block"
+    },
+    "c": {
+      "item": "minecraft:amethyst_block"
+    },
+    "d": {
+      "item": "minecraft:diamond_block"
+    },
+    "e": {
+      "item": "minecraft:blaze_rod"
+    },
+    "f": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "god_tier_equipment:some_bullshit_chunk",
+    "count": 1
+  }
+}

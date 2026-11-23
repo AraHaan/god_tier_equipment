@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "abc",
+    "def",
+    "ghh"
+  ],
+  "key": {
+    "a": {
+      "item": "god_tier_equipment:scarletite_armor_tier_1_boots"
+    },
+    "b": {
+      "item": "god_tier_equipment:scarletite_armor_tier_2_boots"
+    },
+    "c": {
+      "item": "god_tier_equipment:scarletite_armor_tier_3_boots"
+    },
+    "d": {
+      "item": "god_tier_equipment:scarletite_armor_tier_4_boots"
+    },
+    "e": {
+      "item": "god_tier_equipment:scarletite_armor_tier_5_boots"
+    },
+    "f": {
+      "item": "god_tier_equipment:scarletite_armor_tier_6_boots"
+    },
+    "g": {
+      "item": "god_tier_equipment:scarletite_boots_pattern"
+    },
+    "h": {
+      "item": "god_tier_equipment:scarletite_ingot"
+    }
+  },
+  "result": {
+    "item": "god_tier_equipment:scarletite_armor_tier_7_boots",
+    "count": 1
+  }
+}

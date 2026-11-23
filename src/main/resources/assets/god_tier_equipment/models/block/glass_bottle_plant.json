@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "god_tier_equipment:block/glass_bottle_plant",
+    "particle": "god_tier_equipment:block/glass_bottle_plant"
+  },
+  "render_type": "cutout"
+}

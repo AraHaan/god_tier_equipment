@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "abc",
+    "de ",
+    "f  "
+  ],
+  "key": {
+    "a": {
+      "item": "god_tier_equipment:scarletite_sword_tier_1"
+    },
+    "b": {
+      "item": "god_tier_equipment:scarletite_sword_tier_2"
+    },
+    "c": {
+      "item": "god_tier_equipment:scarletite_sword_blade"
+    },
+    "d": {
+      "item": "god_tier_equipment:scarletite_sword_tier_3"
+    },
+    "e": {
+      "item": "god_tier_equipment:scarletite_block"
+    },
+    "f": {
+      "item": "god_tier_equipment:scarletite_sword_hilt"
+    }
+  },
+  "result": {
+    "item": "god_tier_equipment:scarletite_sword_tier_4",
+    "count": 1
+  }
+}

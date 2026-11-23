@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "aac",
+    "aad"
+  ],
+  "key": {
+    "a": {
+      "item": "god_tier_equipment:even_more_bullshit_chunk"
+    },
+    "b": {
+      "item": "god_tier_equipment:some_bullshit_block"
+    },
+    "c": {
+      "item": "god_tier_equipment:some_more_bullshit_block"
+    },
+    "d": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "god_tier_equipment:even_more_bullshit_block",
+    "count": 1
+  }
+}

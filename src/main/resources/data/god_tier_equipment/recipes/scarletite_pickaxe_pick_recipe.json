@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "efg"
+  ],
+  "key": {
+    "a": {
+      "item": "god_tier_equipment:scarletite_block"
+    },
+    "b": {
+      "item": "minecraft:wooden_pickaxe"
+    },
+    "c": {
+      "item": "minecraft:stone_pickaxe"
+    },
+    "d": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "e": {
+      "item": "minecraft:golden_pickaxe"
+    },
+    "f": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "g": {
+      "item": "minecraft:netherite_pickaxe"
+    }
+  },
+  "result": {
+    "item": "god_tier_equipment:scarletite_pickaxe_pick",
+    "count": 1
+  }
+}

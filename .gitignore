@@ -1,0 +1,31 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# ignore the mod's built jar files.
+god_tier_equipment-*.jar
+
+# keep the Paint.NET files private as they can expose sensitive information in the metadata to the files.
+pdn/
