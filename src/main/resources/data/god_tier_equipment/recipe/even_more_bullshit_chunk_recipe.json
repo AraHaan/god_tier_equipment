@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:copper_block",
+    "b": "minecraft:gold_block",
+    "c": "minecraft:emerald_block"
+  },
+  "result": {
+    "id": "god_tier_equipment:even_more_bullshit_chunk",
+    "count": 1
+  }
+}

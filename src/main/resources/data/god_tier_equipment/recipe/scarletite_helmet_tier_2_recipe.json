@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a  ",
+    "   ",
+    "bcc"
+  ],
+  "key": {
+    "a": "god_tier_equipment:scarletite_armor_tier_1_helmet",
+    "b": "god_tier_equipment:scarletite_helmet_pattern",
+    "c": "god_tier_equipment:scarletite_ingot"
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_armor_tier_2_helmet",
+    "count": 1
+  }
+}

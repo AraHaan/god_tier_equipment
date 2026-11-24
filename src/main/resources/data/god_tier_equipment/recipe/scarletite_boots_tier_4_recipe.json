@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "abc",
+    "   ",
+    "dee"
+  ],
+  "key": {
+    "a": "god_tier_equipment:scarletite_armor_tier_1_boots",
+    "b": "god_tier_equipment:scarletite_armor_tier_2_boots",
+    "c": "god_tier_equipment:scarletite_armor_tier_3_boots",
+    "d": "god_tier_equipment:scarletite_boots_pattern",
+    "e": "god_tier_equipment:scarletite_ingot"
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_armor_tier_4_boots",
+    "count": 1
+  }
+}

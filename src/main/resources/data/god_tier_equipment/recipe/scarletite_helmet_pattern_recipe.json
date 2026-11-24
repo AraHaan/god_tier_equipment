@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "efg"
+  ],
+  "key": {
+    "a": "god_tier_equipment:scarletite_ingot",
+    "b": "minecraft:leather_helmet",
+    "c": "minecraft:chainmail_helmet",
+    "d": "minecraft:iron_helmet",
+    "e": "minecraft:golden_helmet",
+    "f": "minecraft:diamond_helmet",
+    "g": "minecraft:netherite_helmet"
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_helmet_pattern",
+    "count": 1
+  }
+}

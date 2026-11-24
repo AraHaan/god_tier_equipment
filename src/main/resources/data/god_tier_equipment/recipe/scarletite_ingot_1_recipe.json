@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "god_tier_equipment:scarletite_block"
+  ],
+  "result": {
+    "id": "god_tier_equipment:scarletite_ingot",
+    "count": 9
+  }
+}

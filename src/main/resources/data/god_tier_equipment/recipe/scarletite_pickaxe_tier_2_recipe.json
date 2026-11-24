@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a b",
+    " c ",
+    "d  "
+  ],
+  "key": {
+    "a": "god_tier_equipment:scarletite_pickaxe_tier_1",
+    "b": "god_tier_equipment:scarletite_pickaxe_pick",
+    "c": "god_tier_equipment:scarletite_block",
+    "d": "minecraft:stick"
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_pickaxe_tier_2",
+    "count": 1
+  }
+}

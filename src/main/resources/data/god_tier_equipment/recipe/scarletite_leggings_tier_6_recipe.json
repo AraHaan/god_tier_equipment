@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "abc",
+    "de ",
+    "fgg"
+  ],
+  "key": {
+    "a": "god_tier_equipment:scarletite_armor_tier_1_leggings",
+    "b": "god_tier_equipment:scarletite_armor_tier_2_leggings",
+    "c": "god_tier_equipment:scarletite_armor_tier_3_leggings",
+    "d": "god_tier_equipment:scarletite_armor_tier_4_leggings",
+    "e": "god_tier_equipment:scarletite_armor_tier_5_leggings",
+    "f": "god_tier_equipment:scarletite_leggings_pattern",
+    "g": "god_tier_equipment:scarletite_ingot"
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_armor_tier_6_leggings",
+    "count": 1
+  }
+}

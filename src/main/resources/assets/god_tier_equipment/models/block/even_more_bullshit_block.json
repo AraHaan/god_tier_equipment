@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "god_tier_equipment:block/even_more_bullshit_block",
+    "particle": "god_tier_equipment:block/even_more_bullshit_block"
+  }
+}

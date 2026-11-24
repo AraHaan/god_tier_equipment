@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "god_tier_equipment:block/apple",
+    "particle": "god_tier_equipment:block/apple"
+  }
+}

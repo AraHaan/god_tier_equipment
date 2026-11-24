@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "efg"
+  ],
+  "key": {
+    "a": "god_tier_equipment:scarletite_ingot",
+    "b": "minecraft:leather_leggings",
+    "c": "minecraft:chainmail_leggings",
+    "d": "minecraft:iron_leggings",
+    "e": "minecraft:golden_leggings",
+    "f": "minecraft:diamond_leggings",
+    "g": "minecraft:netherite_leggings"
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_leggings_pattern",
+    "count": 1
+  }
+}

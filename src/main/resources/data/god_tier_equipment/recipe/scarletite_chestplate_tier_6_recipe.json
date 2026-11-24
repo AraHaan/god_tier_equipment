@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "abc",
+    "de ",
+    "fgg"
+  ],
+  "key": {
+    "a": "god_tier_equipment:scarletite_armor_tier_1_chestplate",
+    "b": "god_tier_equipment:scarletite_armor_tier_2_chestplate",
+    "c": "god_tier_equipment:scarletite_armor_tier_3_chestplate",
+    "d": "god_tier_equipment:scarletite_armor_tier_4_chestplate",
+    "e": "god_tier_equipment:scarletite_armor_tier_5_chestplate",
+    "f": "god_tier_equipment:scarletite_chestplate_pattern",
+    "g": "god_tier_equipment:scarletite_ingot"
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_armor_tier_6_chestplate",
+    "count": 1
+  }
+}

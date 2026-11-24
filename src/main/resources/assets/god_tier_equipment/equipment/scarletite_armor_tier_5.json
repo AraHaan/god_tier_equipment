@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "god_tier_equipment:scarletite_armor_tier_5"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "god_tier_equipment:scarletite_armor_tier_5"
+      }
+    ]
+  }
+}

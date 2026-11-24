@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:golden_apple",
+    "minecraft:golden_apple"
+  ],
+  "result": {
+    "id": "god_tier_equipment:golden_apple_plant",
+    "count": 2
+  }
+}

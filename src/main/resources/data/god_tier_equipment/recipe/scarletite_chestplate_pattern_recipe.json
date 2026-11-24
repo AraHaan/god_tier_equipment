@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "efg"
+  ],
+  "key": {
+    "a": "god_tier_equipment:scarletite_ingot",
+    "b": "minecraft:leather_chestplate",
+    "c": "minecraft:chainmail_chestplate",
+    "d": "minecraft:iron_chestplate",
+    "e": "minecraft:golden_chestplate",
+    "f": "minecraft:diamond_chestplate",
+    "g": "minecraft:netherite_chestplate"
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_chestplate_pattern",
+    "count": 1
+  }
+}

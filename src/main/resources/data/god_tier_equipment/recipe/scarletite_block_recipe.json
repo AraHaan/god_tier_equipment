@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "god_tier_equipment:even_more_bullshit_block",
+    "b": "god_tier_equipment:some_more_bullshit_block",
+    "c": "god_tier_equipment:some_bullshit_block"
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_block",
+    "count": 1
+  }
+}
