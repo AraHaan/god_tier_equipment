@@ -1,0 +1,31 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "god_tier_equipment:apple_plant"
+  },
+  "categories": [
+    "dirt"
+  ],
+  "growthTicks": 20,
+  "display": {
+    "block": "god_tier_equipment:apple_plant"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "minecraft:apple"
+      },
+      "minRolls": 4,
+      "maxRolls": 5
+    },
+    {
+      "chance": 1,
+      "output": {
+        "item": "god_tier_equipment:apple_plant"
+      },
+      "minRolls": 4,
+      "maxRolls": 5
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "god_tier_equipment:item/wood_body"
+  }
+}

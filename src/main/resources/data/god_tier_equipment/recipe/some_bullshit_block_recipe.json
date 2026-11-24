@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "god_tier_equipment:some_bullshit_chunk"
+    }
+  },
+  "result": {
+    "id": "god_tier_equipment:some_bullshit_block",
+    "count": 1
+  }
+}

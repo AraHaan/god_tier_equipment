@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "efg"
+  ],
+  "key": {
+    "a": {
+      "item": "god_tier_equipment:scarletite_ingot"
+    },
+    "b": {
+      "item": "minecraft:leather_boots"
+    },
+    "c": {
+      "item": "minecraft:chainmail_boots"
+    },
+    "d": {
+      "item": "minecraft:iron_boots"
+    },
+    "e": {
+      "item": "minecraft:golden_boots"
+    },
+    "f": {
+      "item": "minecraft:diamond_boots"
+    },
+    "g": {
+      "item": "minecraft:netherite_boots"
+    }
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_boots_pattern",
+    "count": 1
+  }
+}

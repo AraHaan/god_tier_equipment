@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "efg"
+  ],
+  "key": {
+    "a": {
+      "item": "god_tier_equipment:scarletite_block"
+    },
+    "b": {
+      "item": "minecraft:wooden_sword"
+    },
+    "c": {
+      "item": "minecraft:stone_sword"
+    },
+    "d": {
+      "item": "minecraft:iron_sword"
+    },
+    "e": {
+      "item": "minecraft:golden_sword"
+    },
+    "f": {
+      "item": "minecraft:diamond_sword"
+    },
+    "g": {
+      "item": "minecraft:netherite_sword"
+    }
+  },
+  "result": {
+    "id": "god_tier_equipment:scarletite_sword_blade",
+    "count": 1
+  }
+}

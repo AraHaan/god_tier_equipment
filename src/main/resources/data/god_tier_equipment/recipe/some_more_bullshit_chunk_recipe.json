@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:nether_star"
+    },
+    "b": {
+      "item": "minecraft:netherite_block"
+    },
+    "c": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "id": "god_tier_equipment:some_more_bullshit_chunk",
+    "count": 1
+  }
+}
