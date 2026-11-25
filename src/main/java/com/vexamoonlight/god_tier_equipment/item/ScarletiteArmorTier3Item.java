@@ -33,7 +33,7 @@ public abstract class ScarletiteArmorTier3Item extends ArmorDamageableOnCraftIte
 				map.put(ArmorItem.Type.CHESTPLATE, 6);
 				map.put(ArmorItem.Type.HELMET, 2);
 				map.put(ArmorItem.Type.BODY, 6);
-			}), 9, DeferredHolder.create(Registries.SOUND_EVENT, ResourceLocation.parse("item.armor.equip_iron")), () -> Ingredient.of(), List.of(new ArmorMaterial.Layer(ResourceLocation.parse("god_tier_equipment:iron"))), 0f, 0f);
+			}), 9, DeferredHolder.create(Registries.SOUND_EVENT, ResourceLocation.parse("item.armor.equip_iron")), () -> Ingredient.of(), List.of(new ArmorMaterial.Layer(ResourceLocation.parse("minecraft:iron"))), 0f, 0f);
 			registerHelper.register(ResourceLocation.parse("god_tier_equipment:scarletite_armor_tier_3"), armorMaterial);
 			ARMOR_MATERIAL = BuiltInRegistries.ARMOR_MATERIAL.wrapAsHolder(armorMaterial);
 		});

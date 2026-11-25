@@ -35,7 +35,7 @@ public abstract class ScarletiteArmorTier5Item extends ArmorDamageableOnCraftIte
 				map.put(ArmorItem.Type.CHESTPLATE, 6);
 				map.put(ArmorItem.Type.HELMET, 2);
 				map.put(ArmorItem.Type.BODY, 6);
-			}), 10, BuiltInRegistries.SOUND_EVENT.wrapAsHolder(SoundEvents.EMPTY), () -> Ingredient.of(), List.of(new ArmorMaterial.Layer(ResourceLocation.parse("god_tier_equipment:diamond"))), 2f, 0f);
+			}), 10, BuiltInRegistries.SOUND_EVENT.wrapAsHolder(SoundEvents.EMPTY), () -> Ingredient.of(), List.of(new ArmorMaterial.Layer(ResourceLocation.parse("minecraft:diamond"))), 2f, 0f);
 			registerHelper.register(ResourceLocation.parse("god_tier_equipment:scarletite_armor_tier_5"), armorMaterial);
 			ARMOR_MATERIAL = BuiltInRegistries.ARMOR_MATERIAL.wrapAsHolder(armorMaterial);
 		});
