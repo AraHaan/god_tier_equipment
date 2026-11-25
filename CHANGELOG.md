@@ -1,5 +1,8 @@
 # Changelog
 
+1.0.13:
+- Fixed the logo image not loading up in the game.
+
 1.0.12:
 - For the Tier 3~7 Armors, reference the vanilla Minecraft armor layer textures instead of unmodified copies of them.
   - This will also help thin the mod's resulting file size as well.
