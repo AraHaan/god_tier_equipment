@@ -65,7 +65,7 @@ public abstract class ScarletiteArmorTier4Item extends ArmorDamageableOnCraftIte
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "god_tier_equipment:textures/models/armor/gold_layer_1.png";
+			return "minecraft:textures/models/armor/gold_layer_1.png";
 		}
 
 		@Override
@@ -81,7 +81,7 @@ public abstract class ScarletiteArmorTier4Item extends ArmorDamageableOnCraftIte
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "god_tier_equipment:textures/models/armor/gold_layer_1.png";
+			return "minecraft:textures/models/armor/gold_layer_1.png";
 		}
 
 		@Override
@@ -97,7 +97,7 @@ public abstract class ScarletiteArmorTier4Item extends ArmorDamageableOnCraftIte
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "god_tier_equipment:textures/models/armor/gold_layer_2.png";
+			return "minecraft:textures/models/armor/gold_layer_2.png";
 		}
 
 		@Override
@@ -113,7 +113,7 @@ public abstract class ScarletiteArmorTier4Item extends ArmorDamageableOnCraftIte
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "god_tier_equipment:textures/models/armor/gold_layer_1.png";
+			return "minecraft:textures/models/armor/gold_layer_1.png";
 		}
 
 		@Override

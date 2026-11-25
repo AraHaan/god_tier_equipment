@@ -1,3 +1,9 @@
+# Changelog
+
+1.0.12:
+- For the Tier 3~7 Armors, reference the vanilla Minecraft armor layer textures instead of unmodified copies of them.
+  - This will also help thin the mod's resulting file size as well.
+
 1.0.11:
 - No changes to the mod code at all, the only change is to fix a few metadata inconsistencies with the 1.20.1 forge version when compared to the port versions.
   - Also the forge version was missing MinecraftForge as a dependency in the metadata so 1.0.11 fixes that.
