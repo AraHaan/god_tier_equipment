@@ -17,7 +17,7 @@ public class ScarletiteArmorTier7Armor {
 	@SubscribeEvent
 	public static void registerItemExtensions(RegisterClientExtensionsEvent event) {
 		event.registerItem(new IClientItemExtensions() {
-			private final Identifier armorTexture = Identifier.parse("god_tier_equipment:textures/models/armor/netherite_layer_1.png");
+			private final Identifier armorTexture = Identifier.parse("minecraft:textures/models/armor/netherite_layer_1.png");
 
 			@Override
 			public Identifier getArmorTexture(ItemStack stack, EquipmentClientInfo.LayerType type, EquipmentClientInfo.Layer layer, Identifier original) {
@@ -25,7 +25,7 @@ public class ScarletiteArmorTier7Armor {
 			}
 		}, GodTierEquipmentModItems.SCARLETITE_ARMOR_TIER_7_HELMET.get());
 		event.registerItem(new IClientItemExtensions() {
-			private final Identifier armorTexture = Identifier.parse("god_tier_equipment:textures/models/armor/netherite_layer_1.png");
+			private final Identifier armorTexture = Identifier.parse("minecraft:textures/models/armor/netherite_layer_1.png");
 
 			@Override
 			public Identifier getArmorTexture(ItemStack stack, EquipmentClientInfo.LayerType type, EquipmentClientInfo.Layer layer, Identifier original) {
@@ -33,7 +33,7 @@ public class ScarletiteArmorTier7Armor {
 			}
 		}, GodTierEquipmentModItems.SCARLETITE_ARMOR_TIER_7_CHESTPLATE.get());
 		event.registerItem(new IClientItemExtensions() {
-			private final Identifier armorTexture = Identifier.parse("god_tier_equipment:textures/models/armor/netherite_layer_2.png");
+			private final Identifier armorTexture = Identifier.parse("minecraft:textures/models/armor/netherite_layer_2.png");
 
 			@Override
 			public Identifier getArmorTexture(ItemStack stack, EquipmentClientInfo.LayerType type, EquipmentClientInfo.Layer layer, Identifier original) {
@@ -41,7 +41,7 @@ public class ScarletiteArmorTier7Armor {
 			}
 		}, GodTierEquipmentModItems.SCARLETITE_ARMOR_TIER_7_LEGGINGS.get());
 		event.registerItem(new IClientItemExtensions() {
-			private final Identifier armorTexture = Identifier.parse("god_tier_equipment:textures/models/armor/netherite_layer_1.png");
+			private final Identifier armorTexture = Identifier.parse("minecraft:textures/models/armor/netherite_layer_1.png");
 
 			@Override
 			public Identifier getArmorTexture(ItemStack stack, EquipmentClientInfo.LayerType type, EquipmentClientInfo.Layer layer, Identifier original) {
